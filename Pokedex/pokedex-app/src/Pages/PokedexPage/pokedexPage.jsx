@@ -1,8 +1,8 @@
 import React, { useContext, useEffect } from "react";
-import PokemonCardPokedex from "../../Components/pokemonCardPokedex";
+import PokemonCardPokedex from "../../components/pokemonCardPokedex";
 import UrlsPokedexContext from "../../Contexts/UrlsPokedexContext";
 import styled from 'styled-components';
-import Header from "../../Components/header";
+import Header from "../../components/header";
 
 const NoPokemon = styled.h1 ` 
   color: #fb6571;
