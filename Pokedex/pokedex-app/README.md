@@ -1,5 +1,7 @@
 
 # Projeto pokedex
+Projeto Pokedex do curso de Desenvolvimento Web Full Stack da Labenu. 
+Inspirado em sites pokedex, utilizando API .
 
 ## Karine Silva ;
 ## Raul Cezar Silva dos Santos ;
@@ -8,5 +10,4 @@
 
 
 ### link do projeto : 
-(Gebru-pokedex6-system.surge.sh)
-[Gebru-pokedex6-system.surge.sh]
+http://gebru-pokedex6-system.surge.sh/
