@@ -8,4 +8,5 @@
 
 
 ### link do projeto : 
-Gebru-pokedex6-system.surge.sh
+(Gebru-pokedex6-system.surge.sh)
+[Gebru-pokedex6-system.surge.sh]
