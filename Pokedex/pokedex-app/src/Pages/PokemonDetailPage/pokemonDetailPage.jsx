@@ -3,7 +3,7 @@ import { BASE_URL } from "../../Constants/axios"
 import { useParams } from "react-router-dom"
 import { useRequestData } from "../../Hooks/useRequestData"
 import { Container, NamePoke, ImgPoke, BoxDetail, BoxPower, BoxType, BoxAttack, Title } from './pokemonDetail-styled'
-import Header from "../../Components/header";
+import Header from "../../components/header";
 
 
 const PokemonDetailPage = () => {

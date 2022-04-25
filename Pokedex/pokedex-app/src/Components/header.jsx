@@ -5,7 +5,10 @@ import  styled  from "styled-components";
 
 const Hed = styled.header`
 background-color: #3b2e16;
+h1 { 
+    color: pink}
 `
+
 
 
 
@@ -18,6 +21,7 @@ const Header = () => {
     return (
         <Hed>
             <button onClick={() => goToHomePage(navigate)}>Lista de Pokemons</button>
+            <h1>Pokemon</h1>
             <button onClick={() => goToPokedex(navigate)}>Pokedex</button>
         
         </Hed>
