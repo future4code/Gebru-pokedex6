@@ -1,8 +1,8 @@
 import React, { useContext, useEffect} from "react";
 import styled from 'styled-components';
-import PokemonCard from "../../Components/pokemonCard";
+import PokemonCard from "../../components/pokemonCard";
 import UrlsPokedexContext from "../../Contexts/UrlsPokedexContext";
-import Header from "../../Components/header"
+import Header from "../../components/header"
 
 export const MainContainer = styled.div`
   padding:0;

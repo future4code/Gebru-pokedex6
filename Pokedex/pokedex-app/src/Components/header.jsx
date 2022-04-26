@@ -4,11 +4,27 @@ import { useNavigate } from 'react-router-dom';
 import  styled  from "styled-components";
 
 const Hed = styled.header`
-background-color: #3b2e16;
-h1 { 
-    color: pink}
-`
+background-color: #3a163b;
 
+h1 { 
+  
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    color: #0b0303;
+    font-family: "Helvetica Neue", sans-serif;}
+
+button {
+    background-color: black;
+    opacity: 0.6;
+    border: none;
+    width: 15vw;
+    height: 8vh;
+    color: #fff;
+    margin-left: 1rem;
+    border-radius: 5vh;
+  }
+`
 
 
 const Header = () => {
