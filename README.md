@@ -1,16 +1,15 @@
 # POKEDEX
 
-Nome dos integrantes: 
-- Pessoa 1
-- Pessoa 2
-- Pessoa 3
 
-Link do Surge: www.link.com.br
+# Projeto pokedex
+Projeto Pokedex do curso de Desenvolvimento Web Full Stack da Labenu. 
+Inspirado em sites pokedex, utilizando API .
 
-O que funciona:
-- Item 1
-- Item 2
+## Karine Silva ;
+## Raul Cezar Silva dos Santos ;
+## Dorinaldo dos Santos Amorim ;
+## Victor Yasutoshi Tsukamoto ;
 
-O que não funciona: 
-- Item 3
-- Item 4
+
+### link do projeto pokedex: 
+http://gebru-pokedex6-system.surge.sh/
