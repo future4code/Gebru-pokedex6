@@ -10,4 +10,4 @@ Inspirado em sites pokedex, utilizando API .
 
 
 ### link do projeto pokedex: 
-http://gebru-pokedex6-system.surge.sh
+cynical-journey.surge.sh
