@@ -5,9 +5,10 @@ import styled from 'styled-components';
 import Header from "../../Components/header";
 
 const NoPokemon = styled.h1 ` 
-  color: #fb6571;
+  color: black;
   text-transform: uppercase;
 `
+
 
 
 export const MainContainer = styled.div`
