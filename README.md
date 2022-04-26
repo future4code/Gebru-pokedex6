@@ -1,16 +1,13 @@
-# POKEDEX
-
-Nome dos integrantes: 
-- Karine Silva
-- Raul Cezar Silva dos Santos
-- Dorinaldo dos Santos
-- Victor Yasutoshi
-
-Link do Surge: www.link.com.br
-
-O que não funciona: o Projeto está pronto,testamos em grupo e tudo, mais na hora de dar surge e subir o arquivo tivemos um problema de conflito no ultimo dia de entrega, o arquivo está dando erro ao acessar as pastas pelo Router.
-Não conseguimos Resolver.
+# Projeto pokedex
+Projeto Pokedex do curso de Desenvolvimento Web Full Stack da Labenu. 
+Inspirado em sites pokedex, utilizando API .
 
 
+## Karine Silva ;
+## Raul Cezar Silva dos Santos ;
+## Dorinaldo dos Santos Amorim ;
+## Victor Yasutoshi Tsukamoto ;
 
-![image](https://user-images.githubusercontent.com/56006617/165193723-66787fe5-aef2-498b-b06a-fdfdc26bda3a.png)
+
+### link do projeto pokedex: 
+http://gebru-pokedex6-system.surge.sh
