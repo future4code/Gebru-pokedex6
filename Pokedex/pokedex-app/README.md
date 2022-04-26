@@ -9,5 +9,5 @@ Inspirado em sites pokedex, utilizando API .
 ## Victor Yasutoshi Tsukamoto ;
 
 
-### link do projeto : 
+### link do projeto pokedex: 
 http://gebru-pokedex6-system.surge.sh/
