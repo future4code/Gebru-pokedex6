@@ -10,7 +10,8 @@ Inspirado em sites pokedex, utilizando API .
 
 
 ### link do projeto pokedex: 
-https://crooked-advertisement.surge.sh/
+
+http://pokedex6-stretch.surge.sh
 
 ![image](https://user-images.githubusercontent.com/56006617/165361637-a9e25a50-a3a8-49e6-ab95-fa945079d526.png)
 ![image](https://user-images.githubusercontent.com/56006617/165361703-edf8879e-a34c-4e71-a864-ebf8b93357f4.png)
