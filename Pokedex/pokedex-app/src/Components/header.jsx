@@ -16,10 +16,10 @@ h1 {
     width:96%;
     font-weight:50px;
     height:120px;
+
     color: #5e2d2d;
 
- 
-    font-family: "Helvetica Neue", sans-serif;}
+     font-family: "Helvetica Neue", sans-serif;}
 button {
     background-color: black;
     opacity: 0.6;
@@ -30,6 +30,7 @@ button {
     margin-left: 25rem;
     border-radius: 85vh;
     margin-bottom:20px
+
   }
 `
 
@@ -43,11 +44,14 @@ const Header = () => {
   
     return (
         <Hed>
+
          <h1> pokemon</h1>
             <button onClick={() => goToHomePage(navigate)}>Lista de Pokemons</button>
            
             <button onClick={() => goToPokedex(navigate)}>Pokedex</button>
-        
+
+            
+
         </Hed>
     )
 };

@@ -13,6 +13,7 @@ export const MainContainer = styled.div`
   justify-content: space-around;
   column-gap: 5px;
   row-gap: 10px;
+  
 `
 
 const HomePage = () => {

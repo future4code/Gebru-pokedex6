@@ -35,7 +35,7 @@ const PokemonCard = (props) => {
 
     return (
         <>
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 245 }}>
         {!pokemon ?
           <CardMedia
           component="img"
@@ -45,7 +45,7 @@ const PokemonCard = (props) => {
         /> :
 <CardMedia
   component="img"
-  height="160"
+  height="180"
   src={pokemon}
   alt="Pokemon..."
 />
